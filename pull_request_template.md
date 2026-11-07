@@ -1,9 +1,36 @@
 <!--
 Title: write it as a Conventional Commit, such as `docs: fix a broken link`.
-Keep only the sections that apply.
+Squash merges use the title as the commit message, and release-please builds the changelog from it.
+
+Keep only the sections that apply. List each change as `- **scope:** description`,
+the way release-please writes the changelog.
 -->
 
 <!-- A sentence or two: what this PR changes and why. -->
+
+## ⚠ BREAKING CHANGES
+
+## Features
+
+## Bug Fixes
+
+## Performance Improvements
+
+## Reverts
+
+## Documentation
+
+## Styles
+
+## Code Refactoring
+
+## Tests
+
+## Build System
+
+## Continuous Integration
+
+## Miscellaneous Chores
 
 ## Notes
 
