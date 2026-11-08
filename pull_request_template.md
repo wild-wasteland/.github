@@ -6,6 +6,8 @@ Keep only the sections that apply. List each change as `- **scope:** description
 the way release-please writes the changelog.
 -->
 
+<!-- A sentence or two: what this PR changes and why. -->
+
 <!--
 The alerts below are examples. Keep the ones that apply and delete the rest.
 Add your own alert (NOTE, TIP, IMPORTANT, WARNING, or CAUTION) when you judge one
@@ -29,8 +31,6 @@ appropriate and particularly useful for conveying critical information.
 > **Manual steps**
 >
 > <!-- Anything to do by hand before or after merging. Delete this alert if there's nothing. -->
-
-<!-- A sentence or two: what this PR changes and why. -->
 
 ## Features
 
