@@ -10,6 +10,8 @@ the way release-please writes the changelog.
 
 ## ⚠ BREAKING CHANGES
 
+<!-- Also list the change under its type below. Here, say what breaks and what to do about it. Mark the title with `!`, such as `feat(scope)!: …`. -->
+
 ## Features
 
 ## Bug Fixes
