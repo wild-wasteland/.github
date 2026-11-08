@@ -6,6 +6,12 @@ Keep only the sections that apply. List each change as `- **scope:** description
 the way release-please writes the changelog.
 -->
 
+<!--
+The alerts below are examples. Keep the ones that apply and delete the rest.
+Add your own alert (NOTE, TIP, IMPORTANT, WARNING, or CAUTION) when you judge one
+appropriate and particularly useful for conveying critical information.
+-->
+
 > [!WARNING]
 >
 > **Breaking changes**
